@@ -1,0 +1,13 @@
+import time
+import sys
+from colorama import init, Fore
+
+init()
+
+text = Fore.MAGENTA + "Sathwikuu 💕"
+for char in text:
+    sys.stdout.write(char)
+    sys.stdout.flush()
+    time.sleep(0.2)
+
+print()f

@@ -1,0 +1,20 @@
+.score-box {
+  background-color: #f3f3f3;
+  padding: 20px;
+  border: 2px solid #2f0606;
+  border-radius: 8px;
+  width: 350px;
+  margin: 30px auto;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  box-shadow: 0 4px 8px rgba(201, 67, 67, 0.1);
+}
+
+.score-box h2 {
+  text-align: center;
+  color: #1e558c;
+}
+
+.score-box p {
+  font-size: 16px;
+  margin: 8px 0;
+}
